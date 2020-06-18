@@ -1,4 +1,4 @@
-## Boyang Qiu
+## About Boyang
 ***
 
 Over the course of my molecular biology research experiences, the one thing I found the most interesting was uncovering the hidden insights in my messy research data. The feeling of "Eureka!" once I got a lead from crunching the numbers was one of pure gratification. It was this feeling which propelled me to contribute to the first known publication of the [human shoulder microbiome](https://pubmed.ncbi.nlm.nih.gov/29908759/), as well as contributing to the [field of Nemaline Myopathy therapeutic research.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6777365/)
