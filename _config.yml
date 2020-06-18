@@ -3,5 +3,7 @@ title: Boyang Qiu
 description: A biochemist turned data scientist.
 
 navbar-links:
-    - GitHub: "https://github.com/BoyangQiu"
+  About Me: "aboutme"
+  Resources:
     - LinkedIn: "https://www.linkedin.com/in/boyangqiu/"
+    - GitHub: "https://github.com/BoyangQiu"
