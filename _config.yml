@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Boyang Qiu
 description: A biochemist turned data scientist.
+
+footer-links:
+  LinkedIn: https://www.linkedin.com/in/boyangqiu/
+  
