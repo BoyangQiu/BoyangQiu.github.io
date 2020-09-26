@@ -5,4 +5,7 @@ Over the course of my molecular biology research experiences, the one thing I fo
 
 I decided to pursue this feeling after graduating with my Master of Science from the University of Toronto by committing to the field of data science. I am actively working to bolster my knowledge of machine learning techniques and data science frameworks through independent projects. 
 
-My current active project is building a neural network to predict the next pitch a pitcher will throw.
+My current active project is building a neural network to predict the next pitch a pitcher will throw. Check it out below:
+
+
+src="https://camo.githubusercontent.com/807d57c0271daf3d63001df49b3d19fa0fb78943/68747470733a2f2f7075752e73682f473463506e2f336366313832323832352e706e67">](https://camo.githubusercontent.com/807d57c0271daf3d63001df49b3d19fa0fb78943/68747470733a2f2f7075752e73682f473463506e2f336366313832323832352e706e67)
