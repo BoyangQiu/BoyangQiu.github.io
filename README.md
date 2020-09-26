@@ -7,5 +7,5 @@ I decided to pursue this feeling after graduating with my Master of Science from
 
 My current active project is building a neural network to predict the next pitch a pitcher will throw. Check it out below:
 
-
+[<img
 src="https://camo.githubusercontent.com/807d57c0271daf3d63001df49b3d19fa0fb78943/68747470733a2f2f7075752e73682f473463506e2f336366313832323832352e706e67">](https://camo.githubusercontent.com/807d57c0271daf3d63001df49b3d19fa0fb78943/68747470733a2f2f7075752e73682f473463506e2f336366313832323832352e706e67)
